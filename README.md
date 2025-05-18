@@ -1,4 +1,4 @@
-# SIEM Internship – Phase 1
+# SIEM Internship – Phase 1 / #Faustino Henriques
 
 ## 📌 Overview
 
